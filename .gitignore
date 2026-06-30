@@ -1,0 +1,8 @@
+# Python virtual environment
+.venv/
+
+# OpenPLC generated build artifacts (C++ generated from ST source)
+plc/AquaGuard/build/
+
+# Wireshark captures (binary .pcapng — large, machine-specific)
+captures/
